@@ -9,7 +9,7 @@
 用到的themes是 molokai
 
 快捷键如下：
-1. <F5> 编译运行c++ <F6> 测时 <F7> GDB
-2. <leader>cc 注释 <leader>cu 反注释
+1. ```<F5>``` 编译运行c++ ```<F6>``` 测时 ```<F7>``` GDB
+2. ```<leader>cc``` 注释 ```<leader>cu``` 反注释
   
 PS：新建.cpp文件时会自动插入头文件和创建时间
